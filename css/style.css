@@ -1,0 +1,123 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style0 {
+  background-color: #a6adb4;
+  display: flex;
+  margin-left: 0;
+  margin-top: 81.48148148148148vh;
+  width: 100vw;
+  height: 10.416666666666666vw;
+  z-index: 0
+}
+.style13 {
+  color: #fff;
+  font-family: acumin-pro-1,serif;
+  font-size: .6770833333333334vw;
+  font-weight: 700;
+  line-height: 1.0416666666666667vw;
+  margin-left: 9.739583333333334vw;
+  margin-top: 3.0208333333333335vw;
+  z-index: 13
+}
+.web19201container0col1 {
+  display: flex;
+  margin-left: 5.15625vw;
+  margin-top: 2.9166666666666665vw;
+  width: 3.2291666666666665vw;
+  height: 4.375vw;
+  flex-direction: column;
+  justify-content: space-between
+}
+.style1,
+.style10,
+.style4,
+.style7 {
+  color: #cbd0d3;
+  font-family: Helvetica,serif;
+  font-size: .6770833333333334vw;
+  font-weight: 700;
+  line-height: 1.0416666666666667vw;
+  z-index: 1
+}
+.style10,
+.style4,
+.style7 {
+  z-index: 10
+}
+.style4,
+.style7 {
+  z-index: 4
+}
+.style7 {
+  z-index: 7
+}
+.web19201container0col2 {
+  display: flex;
+  margin-left: 3.8020833333333335vw;
+  margin-top: 2.9166666666666665vw;
+  width: 3.0729166666666665vw;
+  height: 4.375vw;
+  flex-direction: column;
+  justify-content: space-between
+}
+.style11,
+.style2,
+.style5,
+.style8 {
+  color: #cbd0d3;
+  font-family: Helvetica,serif;
+  font-size: .6770833333333334vw;
+  font-weight: 700;
+  line-height: 1.0416666666666667vw;
+  z-index: 2
+}
+.style11,
+.style5,
+.style8 {
+  z-index: 11
+}
+.style5,
+.style8 {
+  z-index: 5
+}
+.style8 {
+  z-index: 8
+}
+.web19201container0col3 {
+  display: flex;
+  margin-left: 5vw;
+  margin-top: 2.9166666666666665vw;
+  width: 4.114583333333333vw;
+  height: 4.375vw;
+  flex-direction: column;
+  justify-content: space-between
+}
+.style12,
+.style3,
+.style6,
+.style9 {
+  color: #cbd0d3;
+  font-family: Helvetica,serif;
+  font-size: .6770833333333334vw;
+  font-weight: 700;
+  line-height: 1.0416666666666667vw;
+  z-index: 3
+}
+.style12,
+.style6,
+.style9 {
+  z-index: 12
+}
+.style6,
+.style9 {
+  z-index: 6
+}
+.style9 {
+  z-index: 9
+}
+.breakpoint-0 {
+  display: block
+}
